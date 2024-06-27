@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Dawit Minale</h1>
 <h3 align="center">A passionate full stack developer from Ethiopia</h3>
 
-- 🔭 I’m currently working on **business listing application**
+- 🔭 I’m currently working on **fintech company**
 
-- 🌱 I’m currently learning **react-native**
+- 🌱 I’m currently learning **ruby on rails**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
-- 💬 Ask me about **react.js,next.js,node.js**
+- 💬 Ask me about **react.react,native,js,next.js,node.js**
 
 - 📫 How to reach me **dawitminale474@gmail.com**
 
